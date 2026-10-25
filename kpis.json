@@ -1,0 +1,29 @@
+{
+  "total_sales": 118726350.25999999,
+  "total_profit": 16893702.26,
+  "margin_pct": 14.229109395685388,
+  "units": 1125806.0,
+  "discounts": 9205248.239999998,
+  "gross": 127931598.5,
+  "orders": 700,
+  "loss_rows": 58,
+  "loss_value": -777321.25,
+  "yoy_sales_pct": 36.88120202476133,
+  "yoy_profit_pct": 40.14526228061322,
+  "like_2013_sales": 26415255.51,
+  "like_2014_sales": 36157519.26,
+  "ent_discounts": 1457305.625,
+  "ent_profit": -614545.625,
+  "ent_sales": 19611694.375,
+  "ent_gross_margin_before_disc_pct": 4.0,
+  "dq": {
+    "rows": 700,
+    "half_unit_rows": 36,
+    "blank_discount_band_filled_none": 53,
+    "mfg_price_matches_cogs_per_unit_rows": 164,
+    "date_range": [
+      "2013-09-01",
+      "2014-12-01"
+    ]
+  }
+}
