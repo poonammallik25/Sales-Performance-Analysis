@@ -4,8 +4,7 @@ Author: *<Your Name>*  |  LinkedIn: *<your link>*
 
 > **Business question:** Where does the company make (and lose) money, and what should leadership do about it?
 
-![Dashboard preview](03_Dashboard/dashboard_preview_python.png)
-
+![Dashboard preview](dashboard_preview_python.png)
 ## Key findings
 | # | Finding | Evidence |
 |---|---|---|
